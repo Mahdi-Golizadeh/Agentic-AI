@@ -1,0 +1,20 @@
+# Core ML
+torch>=2.0.0
+transformers>=4.38.0
+accelerate>=0.27.0
+bitsandbytes>=0.42.0
+
+# Agentic control flow
+langgraph>=0.0.40
+
+# RAG & document processing
+langchain>=0.1.14
+langchain-community>=0.0.32
+faiss-cpu>=1.7.4
+
+# PDF ingestion
+pypdf>=4.1.0
+
+# Utilities
+numpy>=1.23
+tqdm>=4.66
